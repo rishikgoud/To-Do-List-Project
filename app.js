@@ -36,4 +36,4 @@ function getdata(){
     listcontainer.innerHTML = localStorage.getItem("data");
 }
 
-getdata();
+getdata(); 

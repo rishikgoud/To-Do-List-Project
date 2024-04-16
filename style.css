@@ -19,7 +19,7 @@
     padding: 30px 30px 70px;
     border-radius: 20px;
 }
-.todocontainer h2{
+.todocontainer h2{ 
     display: flex;
     align-items: center;
     margin-bottom: 10px;
